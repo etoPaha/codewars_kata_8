@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=45360909_002Da921_002D47d9_002D9bc5_002D4deaa956bb36/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SampleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E8234AEB-8567-4468-944A-AD38BBB922F0::.NETCoreApp,Version=v3.1::TestKata.Test_IsValidWalk.SampleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E8234AEB-8567-4468-944A-AD38BBB922F0::.NETCoreApp,Version=v3.1::TestKata.Test_IsValidWalk.Test_IsValidWalk_v2&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5e1c6d6_002D9cb9_002D4a07_002D96ad_002D422411b628b5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_IsValidWalk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::2C796922-5867-4DCB-BBFF-5C91E88216AA::.NETCoreApp,Version=v3.1::ArrayKata.IsValidWalk.Test_IsValidWalk&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
